@@ -73,5 +73,5 @@ Este proyecto utiliza lógica personalizada para interpretar modelos pigmentario
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre o Alias] — 2025  
+Desarrollado por Julián Gomez — 2025  
 Proyecto con fines educativos / exploratorios de teoría del color.
